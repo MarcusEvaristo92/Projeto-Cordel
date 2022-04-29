@@ -49,10 +49,11 @@ section {
     font-family: var(--fonte3);
     font-size: 3.5vw;
 }
-section.normal{
-    color: black;
-    background-color: white;
-}
+    section.normal {
+        color: black;
+        background-color: white;
+        text-shadow: 1px 1px 1px rgb(0,0,0,0.400);
+    }
 section.imagem {
     color: white;
     background-color: black;
